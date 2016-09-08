@@ -1,8 +1,10 @@
 name: Andrew Carringer
 	markdown: kramdown
-	
+
 	# Social Media
 twitter_username: mitipodesalsa
 facebook_username: andrew.carringer
 instagram_username: rackinfracknvarmit
 github_username:  andrewcarringer
+
+permalink: /blog/:year/:month/:day/:title
