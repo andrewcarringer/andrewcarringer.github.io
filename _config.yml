@@ -7,4 +7,4 @@ facebook_username: andrew.carringer
 instagram_username: rackinfracknvarmit
 github_username:  andrewcarringer
 
-permalink: /Blog/:year/:month/:day/:title
+permalink: /blog/:year/:month/:day/:title
