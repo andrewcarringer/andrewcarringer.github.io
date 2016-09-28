@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "OKlahoma! And also school takes a lot of time.
-date: 2016-09-27
+title: "Oklahoma! And also school takes a lot of time
+date: 2016-09-28
 ---
 Oklahoma was great! Overall, this was probably the smoothest and least stressful trip I've been on with the band. Even though we had some scheduling adjustments, like how we arrived at our practice location early, and how we weren't able to see Oklahoma's campus due to a Trump event and that the game was delayed by a few hours, we had good times throughout.
 
