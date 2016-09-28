@@ -1,3 +1,8 @@
+---
+layout: post
+title: "OKlahoma! And also school takes a lot of time.
+date: 2016-09-27
+---
 Oklahoma was great! Overall, this was probably the smoothest and least stressful trip I've been on with the band. Even though we had some scheduling adjustments, like how we arrived at our practice location early, and how we weren't able to see Oklahoma's campus due to a Trump event and that the game was delayed by a few hours, we had good times throughout.
 
 Oklahoma war toll! Ingesamt war diese Reise vielleicht die glatte und am wenigsten stressigen habe ich mit der Marschkapelle erlebt. Obwohl hatten wir Zeitplanung Probleme, z.B wie wir kamen in unserer Praxis Standort früh, und wie können wir nicht der Oklahoma University Campus sehen, weil Trump ein Ereignis hatte und dass das Spiel um einige Stunden verzögert wurde, hatten wir gute Zeiten durchgehend.
@@ -7,14 +12,14 @@ Arriving early to Noble High School, we decided to warm up with some basketball 
 
 Weil wir früh nach Noble High School angekommen, haben wir mit einigen Basketball und andere Spiele in der Turnhalle beschlossen, um sich aufzuwärmen.
 
-[Basketball with The Pride of the Buckeyes.] (https://www.flickr.com/photos/145512774@N06/29352889453/in/datetaken/)
+![Basketball with The Pride of the Buckeyes.] (https://www.flickr.com/photos/145512774@N06/29352889453/in/datetaken/)
 
 
 Practice at the high school hosted the usual, but never unappreciated, large group of band fans.
 
 Praxis schloss das übliche ein, aber nie verkannt, große Gruppe von Fans
 
-[Practice at Noble High School.] (https://www.flickr.com/photos/145512774@N06/29685161090/in/datetaken/)
+![Practice at Noble High School.] (https://www.flickr.com/photos/145512774@N06/29685161090/in/datetaken/)
 
 
 After finding out that Trump's security was preparing Oklahoma University's campus for an event for him, we were told we wouldn't be able to visit. It was fine though, and we all enjoyed the extra time to relax in the hotels.
@@ -26,11 +31,11 @@ That first night, we all went to "Bricktown," a beautiful, touristy spot in Okla
 
 Der erste Abend haben wir alle nach "Bricktown" in Oklahoma City gefahren. Der Ort war touristisch mit einen Kanal und viele Restaurants. Er erinnerte mich an Indianpolis, ob der Indianapolis Kanal nicht so traurig und unbelebt war. Wir aßen bei "Fuzzy's Taco Shop", ein Restaurantkette, dass ich hier in Columbus will. Später spielten wir Mini Golf. Mit Facebook hatte ein Mitglieder in der Marschkapelle die ganze Marschkapelle über Reversnadeln bei einer Laden in der Nähe informiert. Das war gut, weil Stadien normalerweise Reversnadeln für unsere Klubjacken ausverkauft sein.
 
-[Fuzzy's Taco Shop] (https://www.flickr.com/photos/145512774@N06/29685135840/in/datetaken/)
+![Image Fuzzy's Taco Shop] (https://www.flickr.com/photos/145512774@N06/29685135840/in/datetaken/)
 
-[Bricktown at Sundown] (https://www.flickr.com/photos/145512774@N06/29895590221/in/datetaken/)
+![Image Bricktown at Sundown] (https://www.flickr.com/photos/145512774@N06/29895590221/in/datetaken/)
 
-[Close up on my OU lapel pin.] (https://www.flickr.com/photos/145512774@N06/29353338173/in/datetaken/)
+![Image Close up on my OU lapel pin.] (https://www.flickr.com/photos/145512774@N06/29353338173/in/datetaken/)
 
 
 The next day's morning rehearsal was so hot that we were allowed to take off our jackets for the second time this season. It was necessary, as I feel like I would have passed out without it off.
@@ -42,11 +47,11 @@ The Buckeye Bash was smaller than I expected, as headlines in Columbus made it s
 
 Die "Buckeye Bash" Feier war nicht so groß als ich erwartete, weil Schlagzeilen in Columbus sagten, dass die Basketball-Arena ausverkauft würde. In Wirklichkeit wurde nur das Ereignis auf dem Boden ausverkauft. Es ist immer noch toll zu sehen, so viele Fans nach Feiern wie diese zu kommen. Die Feiern war komisch, wenn einige Leute die Marschkapelle Essen zu geben begannen. Offenbar hat ein Mann Brötchen zu die Marschkapelle geworfen, aber war ich in den WC. Schließlich hat die Situation klar geworden, dass die Spiel bei zwei Stunden verspätet. Wir hatten aber alle ein gute Zeit und wir könnten von des Buffets essen und konnten unsere Bilder bekommen genommen.
 
-[The photo I got with my friend and rowmate Emily] (https://www.flickr.com/photos/145512774@N06/29352837454/in/datetaken/)
+![The photo I got with my friend and rowmate Emily] (https://www.flickr.com/photos/145512774@N06/29352837454/in/datetaken/)
 
-[The Buckeye Bash during the rain delay] (https://www.flickr.com/photos/145512774@N06/29895590961/in/datetaken/)
+![The Buckeye Bash during the rain delay] (https://www.flickr.com/photos/145512774@N06/29895590961/in/datetaken/)
 
-[Another view of the Buckeye Bash] (https://www.flickr.com/photos/145512774@N06/29685137430/in/datetaken/)
+![Another view of the Buckeye Bash] (https://www.flickr.com/photos/145512774@N06/29685137430/in/datetaken/)
 
 After bussing to the stadium and marching in, we sat and enjoyed the game. We didn't march pregame, but our halftime performance went well and The pride of Oklahoma were great! At postgame, we played "Boomer Sooner", "Hang On Sloopy", and combined to perform Carmen Dragon's "America The Beautiful"
 
