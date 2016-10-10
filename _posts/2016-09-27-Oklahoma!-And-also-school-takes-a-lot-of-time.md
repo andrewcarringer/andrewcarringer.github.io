@@ -9,7 +9,7 @@ Oklahoma was great! Overall, this was probably the smoothest and least stressful
 
 Arriving early to Noble High School, we decided to warm up with some basketball and other games in the gym. Music was blasting over the PA system, and color commentary from our Drum Major, John LaVange, provided entertainment for all.
 
-![Basketball with The Pride of the Buckeyes.] (/images/sept28/basketball.png)
+image-link: "/images/sept28/basketball.png"
 
 
 Practice at the high school hosted the usual, but never unappreciated, large group of band fans.
