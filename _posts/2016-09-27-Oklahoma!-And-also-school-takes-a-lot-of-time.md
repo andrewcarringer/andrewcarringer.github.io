@@ -41,7 +41,7 @@ The Buckeye Bash was smaller than I expected, as headlines in Columbus made it s
 
 ![Another view of the Buckeye Bash]({{ site.baseurl }}/images/sept28/buckeyebash2.jpg)
 
-After bussing to the stadium and marching in, we sat and enjoyed the game. We didn't march pregame, but our halftime performance went well and The pride of Oklahoma were great! At postgame, we played "Boomer Sooner", "Hang On Sloopy", and combined to perform Carmen Dragon's "America The Beautiful"
+After bussing to the stadium and marching in, we sat and enjoyed the game. We didn't march pregame, but our halftime performance went well and The Pride of Oklahoma was great! At postgame, we played "Boomer Sooner", "Hang On Sloopy", and combined to perform Carmen Dragon's "America The Beautiful"
 
 
 In the morning after the game, we went to Will Rogers World Airport and flew back to Columbus.
