@@ -6,6 +6,11 @@ title: About Me
 # I study Strategic Communication, Professional Writing and German at The Ohio State University
 
 I also:
+- jkkjjj
+
+- llllll
+
+
 <ul>
   <li>am the head of the Communications / Marketing team of [eSports Initiative](https://www.facebook.com/esportsinitiative/)</li>
   <li> play Mellophone in [The Ohio State University Marching Band](http://tbdbitl.osu.edu/)</li>
