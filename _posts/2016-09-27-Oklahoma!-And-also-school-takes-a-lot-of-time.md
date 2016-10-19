@@ -25,7 +25,7 @@ That first night, we all went to "Bricktown," a beautiful, touristy spot in Okla
 
 ![Fuzzy's Taco Shop]({{ site.baseurl }}/images/sept28/fuzzys.jpg)
 
-![Bricktown at Sundown]({{ site.baseurl }}/images/sept28/bricktown)
+![Bricktown at Sundown]({{ site.baseurl }}/images/sept28/bricktown.jpg)
 
 ![Close up on my OU lapel pin.](https://c6.staticflickr.com/6/5144/29353338173_7079223522_n.jpg)
 
