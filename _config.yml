@@ -8,3 +8,8 @@ instagram_username: rackinfracknvarmit
 github_username:  andrewcarringer
 
 permalink: /blog/:year/:month/:day/:title
+
+collections:
+  about:
+    output: true
+    permalink: /about/
