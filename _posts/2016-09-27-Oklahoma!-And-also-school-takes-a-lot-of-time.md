@@ -37,9 +37,9 @@ The Buckeye Bash was smaller than I expected, as headlines in Columbus made it s
 
 ![The photo I got with my friend and rowmate Emily](https://c7.staticflickr.com/6/5226/29352837454_950ed09bb4_n.jpg)
 
-![The Buckeye Bash during the rain delay]({{ site.baseurl }}/images/sept28/buckeyebash1)
+![The Buckeye Bash during the rain delay]({{ site.baseurl }}/images/sept28/buckeyebash1.jpg)
 
-![Another view of the Buckeye Bash]({{ site.baseurl }}/images/sept28/buckeyebash2)
+![Another view of the Buckeye Bash]({{ site.baseurl }}/images/sept28/buckeyebash2.jpg)
 
 After bussing to the stadium and marching in, we sat and enjoyed the game. We didn't march pregame, but our halftime performance went well and The pride of Oklahoma were great! At postgame, we played "Boomer Sooner", "Hang On Sloopy", and combined to perform Carmen Dragon's "America The Beautiful"
 
@@ -48,6 +48,8 @@ In the morning after the game, we went to Will Rogers World Airport and flew bac
 
 
 Everything went well, and I enjoyed every minute.
+
+![Another view of the Buckeye Bash]({{ site.baseurl }}/images/sept28/gobucks.jpg)
 
 
 School, on the other hand, has been a lot of work lately, and band has become more involved as well. Keeping to a real schedule is apparently not going to happen, but I'm going to try to update this as I can.
