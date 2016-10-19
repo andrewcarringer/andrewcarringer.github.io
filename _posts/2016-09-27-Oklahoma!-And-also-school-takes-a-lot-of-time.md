@@ -23,11 +23,11 @@ After finding out that Trump's security was preparing Oklahoma University's camp
 
 That first night, we all went to "Bricktown," a beautiful, touristy spot in Oklahoma City with a canal and plenty of restaurants. It reminded me of Indianapolis' canal walk, if Indianapolis' wasn't sad and empty. We ate at Fuzzy's Taco Shop, a chain that I would love to come to Columbus. Later, we played mini golf. Thanks to Facebook, one band member was also able to alert everyone that one shop had Oklahoma pins if people wanted them for their blazer. Stadiums usually run out pretty fast when we're buying them up, so getting one before the game was great.
 
-![Fuzzy's Taco Shop] ({{ site.baseurl }}/images/sept28/fuzzys.jpg)
+![Fuzzy's Taco Shop]({{ site.baseurl }}/images/sept28/fuzzys.jpg)
 
-![Bricktown at Sundown] ({{ site.baseurl }}/images/sept28/bricktown)
+![Bricktown at Sundown]({{ site.baseurl }}/images/sept28/bricktown)
 
-![Close up on my OU lapel pin.] (https://c6.staticflickr.com/6/5144/29353338173_7079223522_n.jpg)
+![Close up on my OU lapel pin.](https://c6.staticflickr.com/6/5144/29353338173_7079223522_n.jpg)
 
 
 The next day's morning rehearsal was so hot that we were allowed to take off our jackets for the second time this season. It was necessary, as I feel like I would have passed out without it off.
@@ -35,11 +35,11 @@ The next day's morning rehearsal was so hot that we were allowed to take off our
 
 The Buckeye Bash was smaller than I expected, as headlines in Columbus made it sound like the basketball arena would be sold out, not just the event that was on the floor. It's still great to see so many fans come to things like this. Things got funny when we started begging for food from the fans, and some began giving us some. One guy apparently threw rolls into the band, but I was in the bathroom then. Eventually it became clear that storms were moving in, and the game was delayed by something  like two hours. We all had a pretty good time though, and were able to eat from the buffet and get our pictures taken. The various cheers groups of the band played on the stage as well.
 
-![The photo I got with my friend and rowmate Emily] (https://c7.staticflickr.com/6/5226/29352837454_950ed09bb4_n.jpg)
+![The photo I got with my friend and rowmate Emily](https://c7.staticflickr.com/6/5226/29352837454_950ed09bb4_n.jpg)
 
-![The Buckeye Bash during the rain delay] ({{ site.baseurl }}/images/sept28/buckeyebash1)
+![The Buckeye Bash during the rain delay]({{ site.baseurl }}/images/sept28/buckeyebash1)
 
-![Another view of the Buckeye Bash] ({{ site.baseurl }}/images/sept28/buckeyebash2)
+![Another view of the Buckeye Bash]({{ site.baseurl }}/images/sept28/buckeyebash2)
 
 After bussing to the stadium and marching in, we sat and enjoyed the game. We didn't march pregame, but our halftime performance went well and The pride of Oklahoma were great! At postgame, we played "Boomer Sooner", "Hang On Sloopy", and combined to perform Carmen Dragon's "America The Beautiful"
 
