@@ -9,12 +9,14 @@ Oklahoma was great! Overall, this was probably the smoothest and least stressful
 
 Arriving early to Noble High School, we decided to warm up with some basketball and other games in the gym. Music was blasting over the PA system, and color commentary from our Drum Major, John LaVange, provided entertainment for all.
 
-![Basketball](https://andrewcarringer.github.com/images/sept28/basketball.png)
+![Basketball]({{ site.baseurl }}/images/sept28/basketball.png)
+
+![Basketball](https://andrewcarringer.github.io/images/sept28/basketball.png)
 
 
 Practice at the high school hosted the usual, but never unappreciated, large group of band fans.
 
-![Practice at Noble High School.] (https://www.flickr.com/photos/145512774@N06/29685161090/in/datetaken/)
+![Practice at Noble High School.](https://www.flickr.com/photos/145512774@N06/29685161090/in/datetaken/)
 
 
 After finding out that Trump's security was preparing Oklahoma University's campus for an event for him, we were told we wouldn't be able to visit. It was fine though, and we all enjoyed the extra time to relax in the hotels.
