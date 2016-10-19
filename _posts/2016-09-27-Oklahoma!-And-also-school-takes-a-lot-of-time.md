@@ -46,6 +46,7 @@ After bussing to the stadium and marching in, we sat and enjoyed the game. We di
 
 In the morning after the game, we went to Will Rogers World Airport and flew back to Columbus.
 
+![Another view of the Buckeye Bash]({{ site.baseurl }}/images/sept28/airplane.jpg)
 
 Everything went well, and I enjoyed every minute.
 
