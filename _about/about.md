@@ -1,12 +1,13 @@
 ---
 layout: about
-title: About Me
+title: About Me:
 ---
 
 # I study Strategic Communication, Professional Writing and German at The Ohio State University
 
 I also:
-  - am the head of the Communications / Marketing team of [eSports Initiative](https://www.facebook.com/esportsinitiative/)
+<ul>
+  <li>am the head of the Communications / Marketing team of [eSports Initiative](https://www.facebook.com/esportsinitiative/)</li>
   - play Mellophone in [The Ohio State University Marching Band](http://tbdbitl.osu.edu/)
   - enjoy watching critically acclaimed TV shows and movies
     - favorites: Mad Max: Fury Road, Princess Mononoke (and most other Ghibli films), Donnie Darko, Firefly, Avatar: The Last Airbender, How I Met Your Mother (although I do not accept the last episode)
