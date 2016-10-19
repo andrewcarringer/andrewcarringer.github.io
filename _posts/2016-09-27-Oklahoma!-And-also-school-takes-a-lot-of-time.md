@@ -55,6 +55,8 @@ Everything went well, and I enjoyed every minute.
 
 School, on the other hand, has been a lot of work lately, and band has become more involved as well. Keeping to a real schedule is apparently not going to happen, but I'm going to try to update this as I can.
 
+________________________________________________________________________________________________________________________________________________________________________________________________________________
+
 Meine Studien hat andererseits viele Arbeit neuerdings erforderlich. Marschkapelle ist auch immer hart. Ich verstehe jetzt, dass ein Zeitplan für meine Blog ist nicht realistisch, aber will ich oft updaten.
 
 Oklahoma war toll! Ingesamt war diese Reise vielleicht die glatte und am wenigsten stressigen habe ich mit der Marschkapelle erlebt. Obwohl hatten wir Zeitplanung Probleme, z.B wie wir kamen in unserer Übung Standort früh, und wie können wir nicht der Oklahoma University Campus sehen, weil Trump ein Ereignis hatte und dass das Spiel um einige Stunden verzögert wurde, hatten wir gute Zeiten durchgehend.
