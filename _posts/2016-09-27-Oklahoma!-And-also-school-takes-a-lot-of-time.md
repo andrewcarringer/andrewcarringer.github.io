@@ -54,16 +54,16 @@ School, on the other hand, has been a lot of work lately, and band has become mo
 
 Meine Studien hat andererseits viele Arbeit neuerdings erforderlich. Marschkapelle ist auch immer hart. Ich verstehe jetzt, dass ein Zeitplan für meine Blog ist nicht realistisch, aber will ich oft updaten.
 
-Oklahoma war toll! Ingesamt war diese Reise vielleicht die glatte und am wenigsten stressigen habe ich mit der Marschkapelle erlebt. Obwohl hatten wir Zeitplanung Probleme, z.B wie wir kamen in unserer Praxis Standort früh, und wie können wir nicht der Oklahoma University Campus sehen, weil Trump ein Ereignis hatte und dass das Spiel um einige Stunden verzögert wurde, hatten wir gute Zeiten durchgehend.
+Oklahoma war toll! Ingesamt war diese Reise vielleicht die glatte und am wenigsten stressigen habe ich mit der Marschkapelle erlebt. Obwohl hatten wir Zeitplanung Probleme, z.B wie wir kamen in unserer Übung Standort früh, und wie können wir nicht der Oklahoma University Campus sehen, weil Trump ein Ereignis hatte und dass das Spiel um einige Stunden verzögert wurde, hatten wir gute Zeiten durchgehend.
 Weil wir früh nach Noble High School angekommen, haben wir mit einigen Basketball und andere Spiele in der Turnhalle beschlossen, um sich aufzuwärmen.
 
-Praxis schloss das übliche ein, aber nie verkannt, große Gruppe von Fans.
+Übung schloss das übliche ein, aber nie unbeachtet, große Gruppe von Fans.
 
 Nachdem haben wir über einen Besuch von Trump nach Oklahoma University gekannt, mussten wir unsere Plan für ein Besuch dort verlassen. Das war aber OK und wir haben alle die Zeitverlängerung genossen, weil wir in die Hotels ausruhen könnten.
 
 Der erste Abend haben wir alle nach "Bricktown" in Oklahoma City gefahren. Der Ort war touristisch mit einen Kanal und viele Restaurants. Er erinnerte mich an Indianpolis, ob der Indianapolis Kanal nicht so traurig und unbelebt war. Wir aßen bei "Fuzzy's Taco Shop", ein Restaurantkette, dass ich hier in Columbus will. Später spielten wir Mini Golf. Mit Facebook hatte ein Mitglieder in der Marschkapelle die ganze Marschkapelle über Reversnadeln bei einer Laden in der Nähe informiert. Das war gut, weil Stadien normalerweise Reversnadeln für unsere Klubjacken ausverkauft sein.
 
-Der nächste Morgen waren wir während der Praxis und für die zweiten Zeit diese Jahreszeit alle unsere Jacken ausziehen erlaubten. Es war nötig, weil ich fühlte, dass ich mit die Jacke auf ohnmächtig wäre.
+Der nächste Morgen waren wir während der Übung und für die zweiten Zeit diese Jahreszeit alle unsere Jacken ausziehen erlaubten. Es war nötig, weil ich fühlte, dass ich mit die Jacke auf ohnmächtig wäre.
 
 Die "Buckeye Bash" Feier war nicht so groß als ich erwartete, weil Schlagzeilen in Columbus sagten, dass die Basketball-Arena ausverkauft würde. In Wirklichkeit wurde nur das Ereignis auf dem Boden ausverkauft. Es ist immer noch toll zu sehen, so viele Fans nach Feiern wie diese zu kommen. Die Feiern war komisch, wenn einige Leute die Marschkapelle Essen zu geben begannen. Offenbar hat ein Mann Brötchen zu die Marschkapelle geworfen, aber war ich in den WC. Schließlich hat die Situation klar geworden, dass die Spiel bei zwei Stunden verspätet. Wir hatten aber alle ein gute Zeit und wir könnten von des Buffets essen und konnten unsere Bilder bekommen genommen.
 
