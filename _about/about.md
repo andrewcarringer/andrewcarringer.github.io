@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About Me:
+title: About Me
 ---
 
 # I study Strategic Communication, Professional Writing and German at The Ohio State University
